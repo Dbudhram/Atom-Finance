@@ -43,4 +43,31 @@
 >"Wealth management solutions are often driven by machine learning with automated trading and portfolio rebalancing." 
 ---
 ## Citations
+*CFA Institute*
+
+[Fintech in Investment Management](https://www.cfainstitute.org/-/media/documents/support/programs/cfa/cfa-program-level-iii-fintech-in-investment-management.ashx) 
+
+[Seven Trends in Investment Management: Ronald N. Kahn | CFA Institute Enterprising Investor](https://blogs.cfainstitute.org/investor/2019/05/15/seven-trends-in-investment-management-ronald-n-kahn/)
+
+*Justin Gordan’s Podcast – Just Go Grind*
+
+ [Eric Shoykhet, Founder and CEO of Atom Finance  | Just Go Grind with Justin Gordon](https://www.justgogrind.com/eric-shoykhet-podcast/#show-notes)
+
+*Tech Stack Analysis – Atom Finance*
+
+[Atom.finance - Tech Stack Analysis](https://awesometechstack.com/analysis/website/atom.finance/)
+
+*Rutgers FinTech Bootcamp  - Deep Dive Into FinTech*
+
+[Fintech 1.2 - Deep Dive Into Fintech](https://docs.google.com/presentation/d/13zsyUhV5OOWT0fqV4A_dxao3smKImGITfwk7LHu8Drw/edit#slide=id.g5ecf7ad488_5_446)
+
+*Reviews of Atom Finance Platform*
+
+[Atom Finance Review - Comprehensive Investment Research Tools](https://www.moneycrashers.com/atom-finance-review/)
+
+[Atom Finance Review: The Best Stock Research Tool?](https://www.thestockdork.com/atom-finance-review/)
+
+[Atom Finance Review 2021: Is It Worth It?](https://www.investingsimple.com/atom-finance-review/)
+ 
+
 
