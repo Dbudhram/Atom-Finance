@@ -29,7 +29,7 @@
 * Other companies in this domain are E*Trade, BlackRock, JPMorgan Chase, Goldman Sachs
 ---
 ## The Results of Atom
-* 
+* Atom's business impact is still in the early stages as  it is only it's 3rd year present. Nonethless, a platform that offers many of the same investment tools as the "big dogs of Wall Street" at a much lower cost is a feat that many other could not reach. Being able provide a platform for traders of all levels will revolutize the domain of investment management. The impact is shown by the amount of funding this venture has raised since its start, 18 million dollars and counting.
 * 
 * Atom being a company  recently founded does not have many  competitors who are looking to create something that rivals the  Bloomberg terminal. Atom seems to be ahead of other competitors like Financial Toolbelt with the services they offer. For example, Atom offers a portfolio integration tool that will put all of your investment accounts in one place. While Atom is no Bloomberg yet, it is only the company of the newcomers who has the potential to in the future.
 ## Recommendations for Atom
@@ -41,3 +41,6 @@
 * Besides using big data, cloud infracture, and payment technologies that Atom already employs, robo-advisors would cover the addition of the wealth management service.
 * Robo-advisors are cost-efficent and effective tools that will cater portfolio options based on the habits of the investor.
 >"Wealth management solutions are often driven by machine learning with automated trading and portfolio rebalancing." 
+---
+## Citations
+
