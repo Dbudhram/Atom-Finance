@@ -36,7 +36,7 @@
 * One platform that Atom is compared to is Benzinga. Benzinga has seven metrics that they believe should be used to measure success. They are:
 1. Acquisition Metrics - How many news customers are you getting?
 2. Activation Metrics - Tells you how well you are doing at convincing individuals to use your product
-3. Retention Metrics - How successful are you at keeping customers and bringing back old customers
+3. Retention Metrics - How successful you are at keeping customers and bringing back old customers
 4. Referrals - how willing individuals are to recommend your product
 5. Revenues - how much income are you bringing in
 6. Marketing Metrics - how well do you portray your product
